@@ -16,7 +16,7 @@ function show()
                 count.style.color = "black";
                 result.innerHTML = "Happy Birthday Java Technocrat";
                 dev.innerHTML="best wishes from manan ";
-                dev1.innerHTML="developed by manan";
+                dev1.innerHTML="dev by manan";
                 
                 
             }
